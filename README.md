@@ -1,6 +1,6 @@
-# Chromatic Tuner
+# Music Box
 
-Tune to every note in the chromatic scale.
+A set of tools for analyzing musical sound.
 
 ## Contacts
 
